@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="sistema de vendas" src="./assets/sistemavendas.png" style="width: 80%; margin: auto;">
+  <img alt="sistema de vendas" src="./images/sistemavendas.png" style="width: 80%; margin: auto;">
 </p>
 
 ## 🚀 Tecnologias
